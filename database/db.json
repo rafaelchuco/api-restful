@@ -299,6 +299,46 @@
       "status": "nuevo",
       "priority": "high",
       "assignedUser": null
+    },
+    {
+      "id": "add4cfff-13b8-47e5-a4d1-5046e705b4ca",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "e25a67af-b145-48b3-a9ab-34183e111a94",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "1bfd37d0-0d2f-4acc-9e13-3367a69acbeb",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "0614a3ce-c3c3-4264-a288-62b53556c631",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "1aaa0f6f-0c34-43a0-b1ba-a4ae42c08c97",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
     }
   ],
   "notifications": [
@@ -588,6 +628,41 @@
       "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
       "status": "pending",
       "ticketId": "9cdfb8bd-8d60-4124-9517-970a40884e8a"
+    },
+    {
+      "id": "bfddf5a2-df36-4c4c-ae98-78ab6c25aaa5",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "add4cfff-13b8-47e5-a4d1-5046e705b4ca"
+    },
+    {
+      "id": "f0ab33a9-0e4d-4ba5-a71e-e41e67edf53b",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "e25a67af-b145-48b3-a9ab-34183e111a94"
+    },
+    {
+      "id": "41b78d6c-4f22-428b-8e5c-db34d09bed86",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "1bfd37d0-0d2f-4acc-9e13-3367a69acbeb"
+    },
+    {
+      "id": "c7f81c12-1528-4a53-91df-27c76d54d856",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "0614a3ce-c3c3-4264-a288-62b53556c631"
+    },
+    {
+      "id": "4fcfb8f0-ab66-48a1-bd1a-403422c9d070",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "1aaa0f6f-0c34-43a0-b1ba-a4ae42c08c97"
     }
   ]
 }
