@@ -20,6 +20,10 @@ class NotificationService {
   list() {
     return this.repo.findAll();
   }
+
+  listByTicketId(ticketId) {
+    return this.repo.findByTicketId(ticketId);
+  }
 }
 
 module.exports = NotificationService;

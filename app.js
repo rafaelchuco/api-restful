@@ -5,6 +5,7 @@ const morgan = require("morgan");
 
 const ticketRoutes = require("./routes/ticket.routes");
 const notificationRoutes = require("./routes/notification.routes");
+const errorHandler = require("./middlewares/errorHandler");
 
 // Middleware
 app.use(express.json()); // Para leer JSON en las solicitudes
@@ -19,6 +20,8 @@ app.use("/notifications", notificationRoutes);
 app.get("/", (req, res) => {
   res.send("¡Bienvenido a la API RESTful!");
 });
+
+app.use(errorHandler);
 
 const PORT = 3000;
 app.listen(PORT, () => {
