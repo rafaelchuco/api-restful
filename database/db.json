@@ -1,5 +1,306 @@
 {
-  "tickets": [],
+  "tickets": [
+    {
+      "id": "3454e618-ec2e-4a9b-9061-48f5012af8df",
+      "title": "Problema 2",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "eb747707-711b-456c-a93d-7fcf2248307e",
+      "title": "Problema 3",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "1808603d-4ba6-468e-99b6-4b21d227c00a",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "ffb99834-c21d-47c2-8057-7eca96abc9b7",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "861cf605-6c87-4124-b530-1cd75840e652",
+      "title": "Problema 4",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "d55afe50-353d-4a19-b5f7-9d4db5771766",
+      "title": "Problema 4",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "a3f0f75e-b47f-4b9a-90f8-916f9f05551f",
+      "title": "Problema 4",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "35c60aa7-8126-400e-b3e4-cb44ed7e2fc1",
+      "title": "Problema 4",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "2a1d27d2-df49-4b53-b567-a237aca58214",
+      "title": "Problema 4",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "545efac9-dcfa-434f-8ae9-bc37aed9344e",
+      "title": "Problema 4",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "11623d7a-1516-4cf9-95fe-251a426f5eff",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "a8b224ae-7fcb-45a6-806d-e627074d164e",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "00450e90-0f45-4bb0-b464-065e4962e4b2",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "fc893a4a-2e04-4926-adc1-cfc8bae7ac8a",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "147266fa-f166-414c-8df8-c4231feec57e",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "3039fd40-8bb6-4c47-821c-df2224f66c67",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "a65f6eb2-2583-44ce-9c0c-b24ae27cdae5",
+      "title": "Ticket de Prueba",
+      "description": "Validar envío de correo",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "2086798a-f321-4c76-b885-ebfe523bc8e3",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "7c47fe40-8d8d-4b99-a8e8-91917f09e634",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "703f4b6a-7d21-4f51-ac0b-e0643de0d696",
+      "title": "Problema 32",
+      "description": "Ocurrió un error en el sistema",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "a59d802f-be56-42d0-a5d4-eab297cabf20",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "f32edc68-f13b-4ef3-828f-1c8afc169c38",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "574cff85-e75d-42e6-9898-cb722b9343e8",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "1841c14e-7c1b-4bbb-a6c4-3ee95d7dcc83",
+      "title": "Prueba de Envío Automático",
+      "description": "Verificar que llegue el correo automático",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "4b400ce6-884d-4690-877e-84723234d09a",
+      "title": "Test Correo",
+      "description": "Prueba 2",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "89622d1b-2cf6-44d7-b825-835a4a79eb47",
+      "title": "Test Debug",
+      "description": "Ver logs",
+      "status": "nuevo",
+      "priority": "medium",
+      "assignedUser": null
+    },
+    {
+      "id": "944f9384-8ce7-4500-bc89-6629f17fa7ab",
+      "title": "Test con Timeout",
+      "description": "Verificar resultado",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "9748aa40-7ac1-4076-9265-120e3e1906a4",
+      "title": "Test Callback",
+      "description": "Con callback SMTP",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "6969f514-c2d2-4933-9761-7df6b9a6d1a2",
+      "title": "Verificar Constructor",
+      "description": "Check transporter init",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "dfe11807-1f00-4cb5-bd0f-a8e38d964b6f",
+      "title": "Test Timeout SMTP",
+      "description": "Ver si hay timeout",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "562411bf-2aa9-4fa1-910e-67fc37ad2bc5",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "7aff2034-d314-4505-bd77-9f070b46ba1a",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "661e33bf-3c9d-4c6e-8779-e79472c9139a",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "a88a9151-e0fc-47d0-8e23-c0186c61989f",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "a476ea14-8717-4ae8-90b8-68c39e2617c0",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "af8fab99-b405-4638-b5fe-15edf90b434b",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "90ba471d-877d-491d-b4af-3e0fd224b54c",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    },
+    {
+      "id": "9cdfb8bd-8d60-4124-9517-970a40884e8a",
+      "title": "Nuevo Ticket de Soporte",
+      "description": "Descripción del problema que necesita resolución",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
+    }
+  ],
   "notifications": [
     {
       "id": "2feff071-dca1-4432-8e48-aa70dd9ee963",
@@ -21,6 +322,272 @@
       "message": "El ticket 740a6481-3f56-40a2-bd24-059fac08b049 cambió a asignado",
       "status": "pending",
       "ticketId": "740a6481-3f56-40a2-bd24-059fac08b049"
+    },
+    {
+      "id": "791210a1-a173-4d4e-b68e-e3595051639d",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 2",
+      "status": "pending",
+      "ticketId": "3454e618-ec2e-4a9b-9061-48f5012af8df"
+    },
+    {
+      "id": "c3eae3ce-baa7-4c85-a34a-c1d105e846d8",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 3",
+      "status": "pending",
+      "ticketId": "eb747707-711b-456c-a93d-7fcf2248307e"
+    },
+    {
+      "id": "331977c7-4a66-4353-8d0a-c078627e830f",
+      "type": "email",
+      "message": "Nuevo ticket creado: undefined",
+      "status": "pending",
+      "ticketId": "1808603d-4ba6-468e-99b6-4b21d227c00a"
+    },
+    {
+      "id": "b3086ccc-945c-4644-b9b3-29cc1f34d3e1",
+      "type": "email",
+      "message": "Nuevo ticket creado: undefined",
+      "status": "pending",
+      "ticketId": "ffb99834-c21d-47c2-8057-7eca96abc9b7"
+    },
+    {
+      "id": "16d16b80-0150-4dd6-8ad9-dbb2019498da",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 4",
+      "status": "pending",
+      "ticketId": "861cf605-6c87-4124-b530-1cd75840e652"
+    },
+    {
+      "id": "358cf688-3c1d-411c-9a9e-decca7d8842d",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 4",
+      "status": "pending",
+      "ticketId": "d55afe50-353d-4a19-b5f7-9d4db5771766"
+    },
+    {
+      "id": "40c15460-a8c1-4a91-bcb3-9046e0e6593a",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 4",
+      "status": "pending",
+      "ticketId": "a3f0f75e-b47f-4b9a-90f8-916f9f05551f"
+    },
+    {
+      "id": "1c781a67-de44-418b-8cb8-ba11de76af5e",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 4",
+      "status": "pending",
+      "ticketId": "35c60aa7-8126-400e-b3e4-cb44ed7e2fc1"
+    },
+    {
+      "id": "43aa71d3-ae5a-41f6-950c-7d32f87c4964",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 4",
+      "status": "pending",
+      "ticketId": "2a1d27d2-df49-4b53-b567-a237aca58214"
+    },
+    {
+      "id": "914a246c-0ca4-4c4a-8e18-e36989f51bf5",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 4",
+      "status": "pending",
+      "ticketId": "545efac9-dcfa-434f-8ae9-bc37aed9344e"
+    },
+    {
+      "id": "4cb6b5d5-cda5-4598-b454-1d65c6fd43d9",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "11623d7a-1516-4cf9-95fe-251a426f5eff"
+    },
+    {
+      "id": "c0688f97-18f2-4105-9fec-a2f001dd87dc",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "a8b224ae-7fcb-45a6-806d-e627074d164e"
+    },
+    {
+      "id": "20fefa17-38ea-4903-aee9-b4e8d7b887eb",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "00450e90-0f45-4bb0-b464-065e4962e4b2"
+    },
+    {
+      "id": "79481978-58b8-441e-84ed-d7432e81a9c4",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "fc893a4a-2e04-4926-adc1-cfc8bae7ac8a"
+    },
+    {
+      "id": "4564f3b3-659e-422b-bccb-21d6e798c1b2",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "147266fa-f166-414c-8df8-c4231feec57e"
+    },
+    {
+      "id": "efc36892-8e21-4d79-be52-8782b7017ad3",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "3039fd40-8bb6-4c47-821c-df2224f66c67"
+    },
+    {
+      "id": "8e6594bc-787c-4a58-a1dc-b9ccf5c2e04c",
+      "type": "email",
+      "message": "Nuevo ticket creado: Ticket de Prueba",
+      "status": "pending",
+      "ticketId": "a65f6eb2-2583-44ce-9c0c-b24ae27cdae5"
+    },
+    {
+      "id": "0fe78c17-149e-4f88-a4bf-305f223881b7",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "2086798a-f321-4c76-b885-ebfe523bc8e3"
+    },
+    {
+      "id": "046d03b1-6400-4561-b0da-6a38506b13d5",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "7c47fe40-8d8d-4b99-a8e8-91917f09e634"
+    },
+    {
+      "id": "06bcb322-dc6b-40a9-b043-4e8bc445a7f4",
+      "type": "email",
+      "message": "Nuevo ticket creado: Problema 32",
+      "status": "pending",
+      "ticketId": "703f4b6a-7d21-4f51-ac0b-e0643de0d696"
+    },
+    {
+      "id": "b493b83f-7f55-424b-bf5a-db44dfa36b4c",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "a59d802f-be56-42d0-a5d4-eab297cabf20"
+    },
+    {
+      "id": "f1d3164b-71b8-4a57-98df-7f21d5522f5c",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "f32edc68-f13b-4ef3-828f-1c8afc169c38"
+    },
+    {
+      "id": "e73f5f3c-00c2-4d08-8232-2246c0830c4a",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "574cff85-e75d-42e6-9898-cb722b9343e8"
+    },
+    {
+      "id": "1adab0e6-ca12-486d-9997-6edc21dca43a",
+      "type": "email",
+      "message": "Nuevo ticket creado: Prueba de Envío Automático",
+      "status": "pending",
+      "ticketId": "1841c14e-7c1b-4bbb-a6c4-3ee95d7dcc83"
+    },
+    {
+      "id": "53e5d2c6-8838-4d24-bc89-83ade4ef0f63",
+      "type": "email",
+      "message": "Nuevo ticket creado: Test Correo",
+      "status": "pending",
+      "ticketId": "4b400ce6-884d-4690-877e-84723234d09a"
+    },
+    {
+      "id": "69c124ff-38da-44ee-b067-e9ab35e0bb3b",
+      "type": "email",
+      "message": "Nuevo ticket creado: Test Debug",
+      "status": "pending",
+      "ticketId": "89622d1b-2cf6-44d7-b825-835a4a79eb47"
+    },
+    {
+      "id": "9f0f571f-f92e-43c2-958b-3eba45be4d71",
+      "type": "email",
+      "message": "Nuevo ticket creado: Test con Timeout",
+      "status": "pending",
+      "ticketId": "944f9384-8ce7-4500-bc89-6629f17fa7ab"
+    },
+    {
+      "id": "836ed766-a408-4b4d-95aa-5f47b356a986",
+      "type": "email",
+      "message": "Nuevo ticket creado: Test Callback",
+      "status": "pending",
+      "ticketId": "9748aa40-7ac1-4076-9265-120e3e1906a4"
+    },
+    {
+      "id": "e42016ec-5954-4e61-88d1-cd28ceef27a1",
+      "type": "email",
+      "message": "Nuevo ticket creado: Verificar Constructor",
+      "status": "pending",
+      "ticketId": "6969f514-c2d2-4933-9761-7df6b9a6d1a2"
+    },
+    {
+      "id": "3a35f624-d5f5-4837-a1b7-47873c5c6fb4",
+      "type": "email",
+      "message": "Nuevo ticket creado: Test Timeout SMTP",
+      "status": "pending",
+      "ticketId": "dfe11807-1f00-4cb5-bd0f-a8e38d964b6f"
+    },
+    {
+      "id": "8f61aa5a-84de-4a6d-af5e-351cd568d4ef",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "562411bf-2aa9-4fa1-910e-67fc37ad2bc5"
+    },
+    {
+      "id": "8a1b8ff7-e4b6-4eba-808a-00d399a94942",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "7aff2034-d314-4505-bd77-9f070b46ba1a"
+    },
+    {
+      "id": "5da1530b-71b1-4e86-9dc8-4a53988caf99",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "661e33bf-3c9d-4c6e-8779-e79472c9139a"
+    },
+    {
+      "id": "e363393b-6984-4ff1-af05-2299101d880f",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "a88a9151-e0fc-47d0-8e23-c0186c61989f"
+    },
+    {
+      "id": "14011637-ebf3-4d35-845d-1fc3017d5995",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "a476ea14-8717-4ae8-90b8-68c39e2617c0"
+    },
+    {
+      "id": "7c9dc644-0f28-4168-9052-b1b6ee65ebdb",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "af8fab99-b405-4638-b5fe-15edf90b434b"
+    },
+    {
+      "id": "469c2636-5f46-4083-91be-9db459e019bf",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "90ba471d-877d-491d-b4af-3e0fd224b54c"
+    },
+    {
+      "id": "808e9e62-41c0-4b17-b380-2d212acd459d",
+      "type": "email",
+      "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
+      "status": "pending",
+      "ticketId": "9cdfb8bd-8d60-4124-9517-970a40884e8a"
     }
   ]
 }
