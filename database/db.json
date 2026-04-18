@@ -339,6 +339,14 @@
       "status": "nuevo",
       "priority": "high",
       "assignedUser": null
+    },
+    {
+      "id": "1b8a4111-3b83-408b-a405-d08c9748dfb3",
+      "title": "POSTMAN flujo real",
+      "description": "Validar envío desde endpoint",
+      "status": "nuevo",
+      "priority": "high",
+      "assignedUser": null
     }
   ],
   "notifications": [
@@ -663,6 +671,13 @@
       "message": "Nuevo ticket creado: Nuevo Ticket de Soporte",
       "status": "pending",
       "ticketId": "1aaa0f6f-0c34-43a0-b1ba-a4ae42c08c97"
+    },
+    {
+      "id": "153eb41b-9067-4c09-bb41-07f10c2c25d4",
+      "type": "email",
+      "message": "Nuevo ticket creado: POSTMAN flujo real",
+      "status": "pending",
+      "ticketId": "1b8a4111-3b83-408b-a405-d08c9748dfb3"
     }
   ]
 }
